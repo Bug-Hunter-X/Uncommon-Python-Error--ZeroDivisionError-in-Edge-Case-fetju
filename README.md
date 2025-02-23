@@ -1,0 +1,1 @@
+This repository showcases a common yet easily overlooked error in Python: the ZeroDivisionError. The `bug.py` file contains code that demonstrates this error.  The `bugSolution.py` file provides a solution to prevent the error by handling potential division by zero. This is a crucial example of defensive programming and handling unexpected inputs.
